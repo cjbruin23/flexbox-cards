@@ -71,5 +71,7 @@ html {
 .cardGroup__cardDescription {
     /* flex-grow, flex-shrink, flex-basis */
     flex-grow: 1;
+    flex-shrink: 0;
+    flex-basis: 1;
    
 }
